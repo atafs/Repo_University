@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #compile the program
-ocamlc -g -o basic1 basic1.ml
+ocamlc -g -o basic2 basic2.ml
 
 #run the programs
-./basic1
+./basic2
