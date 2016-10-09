@@ -3,5 +3,5 @@
 #compile the program
 ocamlc -g -o basic1 basic1.ml
 
-#run the program
+#run the programs
 ./basic1
